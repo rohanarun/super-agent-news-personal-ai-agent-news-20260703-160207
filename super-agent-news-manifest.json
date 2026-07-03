@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[trendhunter.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZmtobl82T1hrSExTOXo1UnR2ZHdKRFhsM0MzWGNNMWpJcUdWNnhvZmhuZTRwdFBuNUxGTlNOLUdHMVVLV3cxZzYzUnVQN2VEU1g0cA)",
+    "[cio.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVlvSDl5dDJuaGY2OTlNZzhPTjg1Zmp0ZFpING54YzR3UnZMODBaVVVFS0t0eGtrOGVyMU94elVORVI4N2E2M2VFakk0QVBfUFlWQlNueS1ydk1xSTZHWjdodEpia0hHcnBSZHZOVno0RVl3emUxM0JONWNZY1R3WkViS1QxRUV0VVp2OGtUS1ZZallSX1lSVw)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ)",
+    "[reuters.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGd3bUw3UGVpQ1A2YllIZ3NOYy1JNHpqU0NLczNGQzNkV2VLdElJbkhLWkExVVBkamJFbDlpRmxXUzFlR2pYdlVLbEtWWVBJY3RWYzFvZlVDLWtQc2RDMHRGVmZjZk9RdHk4Z05HbzZ5S3YxVWw4blZDOGd2U2Vad1RHSHB3bzV1bkFoZzg2Uy1BMTZhRGdiWTNtU3M3NDM5SGppN1hmdGxTenVka20zNg)",
+    "[bgr.com](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvS0VvR1ZDTkVfT0otWGhvOUVLVTlEb0VpT1BadE1IelZOcnFTdV8wdkxESy1YZURxSlo2Sk4xQlIzSU9JX19qZXZBWWVoa1E1bWRqOTRpc1AwN2dPcEVZM3A0endEd1J0UHRQRG1yUlZwUlpU)"
+  ],
+  "design_plan": "rng(seed=42)->hero=centered; AIDA=pass; hero_lines=3; bento_density=grid-auto-flow:dense; label_sweep=all competitors mentioned; button_contrast=black/white verified",
+  "generated_at": "2026-07-03T16:02:13.512280+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A living editorial brief for buyers and builders tracking personal AI agents, with evidence from current reporting and a clear Super perspective on why real computer-use \u2014 paired with a reusable computer-use cache \u2014 is becoming the dividing line in the market."
+}
